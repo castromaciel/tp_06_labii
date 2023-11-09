@@ -1,0 +1,5 @@
+Formulario de logueo;2023-10-09;09:31;11:33
+Validación usuario logueado;2023-10-10;10:05;10:52
+Archivo log de usuario;2023-10-11;13:45;16:38
+Formulario alta de videojuego;2023-10-13;17:41;20:58
+Registro videojuego en TXT;2023-10-16;14:10;15:53
